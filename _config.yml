@@ -14,9 +14,9 @@ avatar: "/assets/img/avatar-icon.png"
 
 # Global colors (affect CSS variables in `assets/css/beautifuljekyll.css`)
 # `--link-col` controls regular link color, `--hover-col` controls hover color.
-link-col: "#B22222"
-hover-col: "#0B3D91"
-footer-hover-col: "#0B3D91"
+link-col: "#B22222"       # firebrick (weihnachtliches Rot)
+hover-col: "#8B0000"      # darkred (Hover-Farbe)
+footer-hover-col: "#8B0000"
 
 # Note: posts must live in `_posts/` in this repository and each post should
 # have `calendar: henri|fiona|melanie` in its front matter to be shown on the
