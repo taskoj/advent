@@ -35,13 +35,10 @@
           
           {% if include.type == "post" %} 
             {% if page.author %}
-              Von <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
-            <span class="post-meta">Veröffentlicht am {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Letztes Update {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
