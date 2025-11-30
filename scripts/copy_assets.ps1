@@ -1,4 +1,4 @@
-# Copy assets from source projects into advent2025/assets
+# Copy assets from source projects into advent/assets
 
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $workspaceRoot = Resolve-Path "$root\.."

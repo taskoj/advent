@@ -1,4 +1,4 @@
-# Migrate posts from the three project folders into advent2025/_posts
+# Migrate posts from the three project folders into advent/_posts
 # Maps:
 #  - adfi -> fiona
 #  - adme -> melanie

@@ -4,10 +4,10 @@ paginate: 8
 excerpt_length: 20
 post_search: true
 
-# For GitHub Pages under a project page (https://username.github.io/advent2025)
+# For GitHub Pages under a project page (https://username.github.io/advent)
 # set `url` to your site root and `baseurl` to the repo name.
 url: "https://taskoj.github.io"
-baseurl: "/advent2025"
+baseurl: "/advent"
 
 # Global default avatar (used when a page has no `calendar`/`site_key`)
 avatar: "/assets/img/avatar-icon.png"
