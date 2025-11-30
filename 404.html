@@ -14,8 +14,9 @@ permalink: /404.html
         <p>Versuche eine dieser Optionen:</p>
         <ul>
           <li><a href="{{ '/' | relative_url }}">Zur Startseite</a></li>
-          {% for key, s in site.data.sites %}
-          <li><a href="{{ s.baseurl | relative_url }}">{{ s.title }}{% if s.description %} — {{ s.description }}{% endif %}</a></li>
+          {% for key in site.data.sites %}
+            {% assign s = site.data.sites[key] %}
+            <li><a href="{{ s.baseurl | relative_url }}">{{ s.title }}{% if s.description %} — {{ s.description }}{% endif %}</a></li>
           {% endfor %}
         </ul>
 
