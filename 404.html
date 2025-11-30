@@ -1,0 +1,30 @@
+---
+layout: page
+title: "Seite nicht gefunden"
+permalink: /404.html
+---
+
+<div class="container-md">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <div class="page-heading">
+        <h1>404 — Seite nicht gefunden</h1>
+        <hr class="small">
+        <p>Die angeforderte Seite konnte nicht gefunden werden. Möglicherweise ist der Link veraltet oder es gibt einen Tippfehler.</p>
+        <p>Versuche eine dieser Optionen:</p>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Zur Startseite</a></li>
+          {% for key, s in site.data.sites %}
+          <li><a href="{{ s.baseurl | relative_url }}">{{ s.title }}{% if s.description %} — {{ s.description }}{% endif %}</a></li>
+          {% endfor %}
+        </ul>
+
+        {% if site.post_search %}
+        <h3>Suche im Adventskalender</h3>
+        {% include search.html %}
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+</div>
