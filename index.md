@@ -2,6 +2,7 @@
 layout: page
 title: "Advent 2025"
 permalink: /
+subtitle: "Adventskalender für Melanie, Henri und Fiona."
 ---
 
 Willkommen zum zentralen Adventskalender 2025. Wähle eine Ausgabe:
