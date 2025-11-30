@@ -4,6 +4,11 @@ paginate: 8
 excerpt_length: 20
 post_search: true
 
+# For GitHub Pages under a project page (https://username.github.io/advent2025)
+# set `url` to your site root and `baseurl` to the repo name.
+url: "https://taskoj.github.io"
+baseurl: "/advent2025"
+
 # Note: posts must live in `_posts/` in this repository and each post should
 # have `calendar: henri|fiona|melanie` in its front matter to be shown on the
 # corresponding sub-site.
