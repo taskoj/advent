@@ -1,0 +1,26 @@
+henri:
+  title: "Adventskalender für Henri"
+  description: "Beiträge für Henri"
+  baseurl: "/henri/"
+  css:
+    link-col: "#B22222"
+    hover-col: "#0B3D91"
+  avatar: "/assets/img/avatar-icon.png"
+
+fiona:
+  title: "Adventskalender für Fiona"
+  description: "Beiträge für Fiona"
+  baseurl: "/fiona/"
+  css:
+    link-col: "#B22222"
+    hover-col: "#0B3D91"
+  avatar: "/assets/img/avatar-icon.png"
+
+melanie:
+  title: "Adventskalender für Melanie"
+  description: "Beiträge für Melanie"
+  baseurl: "/melanie/"
+  css:
+    link-col: "#B22222"
+    hover-col: "#0B3D91"
+  avatar: "/assets/img/avatar-icon.png"
