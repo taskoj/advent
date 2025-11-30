@@ -1,6 +1,6 @@
 henri:
   title: "Advent"
-  description: "Beiträge für Henri"
+  description: "Adventskalender für Henri"
   baseurl: "/henri/"
   css:
     link-col: "#B22222"
@@ -9,7 +9,7 @@ henri:
 
 fiona:
   title: "Advent"
-  description: "Beiträge für Fiona"
+  description: "Adventskalender für Fiona"
   baseurl: "/fiona/"
   css:
     link-col: "#B22222"
@@ -18,7 +18,7 @@ fiona:
 
 melanie:
   title: "Advent"
-  description: "Beiträge für Melanie"
+  description: "Adventskalender für Melanie"
   baseurl: "/melanie/"
   css:
     link-col: "#B22222"

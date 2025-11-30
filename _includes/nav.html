@@ -14,9 +14,9 @@
   {%- elsif siteinfo and siteinfo.title -%}
     <a class="navbar-brand" href="{{ siteinfo.baseurl | relative_url }}">{{ siteinfo.title }}</a>
   {%- elsif site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ site.baseurl | relative_url }}{% endif %}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ site.baseurl | relative_url }}{% endif %}">{{ site.title }}</a>
+    <a class="navbar-brand" href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">{{ site.title }}</a>
   {%- endif -%}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -66,7 +66,7 @@
   {% if avatar and page.show-avatar != false %}
     <div class="avatar-container">
       <div class="avatar-img-border">
-        <a href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ site.baseurl | relative_url }}{% endif %}">
+        <a href="{% if siteinfo and siteinfo.baseurl %}{{ siteinfo.baseurl | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
           <img alt="Navigation bar avatar" class="avatar-img" src="{{ avatar | relative_url }}" />
         </a>
       </div>

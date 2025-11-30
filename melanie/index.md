@@ -2,7 +2,7 @@
 layout: home
 site_key: melanie
 permalink: /melanie/
-title: "Adventskalender für Melanie"
+title: "Advent 2025"
 ---
 
 Willkommen beim Adventskalender für Melanie.
