@@ -9,6 +9,9 @@ post_search: true
 url: "https://taskoj.github.io"
 baseurl: "/advent2025"
 
+# Global default avatar (used when a page has no `calendar`/`site_key`)
+avatar: "/assets/img/avatar-icon.png"
+
 # Note: posts must live in `_posts/` in this repository and each post should
 # have `calendar: henri|fiona|melanie` in its front matter to be shown on the
 # corresponding sub-site.
