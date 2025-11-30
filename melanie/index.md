@@ -5,4 +5,3 @@ permalink: /melanie/
 title: "Advent 2025"
 ---
 
-Willkommen beim Adventskalender für Melanie.

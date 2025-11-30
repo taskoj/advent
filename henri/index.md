@@ -5,4 +5,3 @@ permalink: /henri/
 title: "Advent 2025"
 ---
 
-Willkommen beim Adventskalender für Henri.
