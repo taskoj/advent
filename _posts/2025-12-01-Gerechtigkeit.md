@@ -1,4 +1,4 @@
-﻿---
+---
 calendar: henri
 layout: post
 title: Was ist Gerechtigkeit?
@@ -14,7 +14,7 @@ Ist gerecht, wenn alle das Gleiche bekommen? Oder wenn jede Person das bekommt, 
 
 Schon alte Philosoph:innen wie **Platon** oder **Aristoteles** haben sich darüber gestritten, was eine gerechte Gemeinschaft ausmacht. Heute diskutieren wir Gerechtigkeit z. B. bei Themen wie **Armut**, **Bildungschancen**, **Rassismus** oder **Klimapolitik**.
 
-Ein wichtiger Gedanke:  
+Ein wichtiger Gedanke:   
 > Gerechtigkeit hat immer mit **Beziehungen** zu tun – zwischen Menschen, Gruppen und Generationen.
 
 Wenn du eine gerechte Gesellschaft willst, ist der erste Schritt, ein eigenes Bild davon zu entwickeln:  
