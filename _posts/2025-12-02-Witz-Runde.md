@@ -30,25 +30,25 @@ Schreib diese Witze auf einzelne Zettel (oder lies sie direkt vor):
 5. „Was macht ein Pirat am Computer?“  
    → „Er drückt die Enter-Taste!“
 
-6. „Was macht ein Clown im Büro?“
+6. „Was macht ein Clown im Büro?“  
    → „Faxen!“
 
-7. „Was macht eine Wolke, wenn sie müde ist?“
+7. „Was macht eine Wolke, wenn sie müde ist?“  
    → „Sie geht in den Himmelbett!“
 
-8. „Wie nennt man einen Bären ohne Zähne?“
+8. „Wie nennt man einen Bären ohne Zähne?“  
    → „Gummibärchen!“
 
-9. „Was ist weiß und stört beim Essen?“
+9. „Was ist weiß und stört beim Essen?“  
    → „Eine Lawine!“
 
-10. „Was macht ein Mathematiker im Garten?“
+10. „Was macht ein Mathematiker im Garten?“  
    → „Wurzeln ziehen!“
 
-11. „Was ist rot und steht im Wald?“
+11. „Was ist rot und steht im Wald?“  
    → „Ein Kirsch!“
 
-12. „Was ist grün, glücklich und hüpft durch den Wald?“
+12. „Was ist grün, glücklich und hüpft durch den Wald?“  
    → „Eine Freudenkohl!“
 
 Du kannst natürlich noch eigene Witze dazuschreiben.
