@@ -1,4 +1,4 @@
-﻿---
+---
 calendar: fiona
 layout: post
 title: Blitz-Morgen-Start in 3 Schritten
@@ -11,7 +11,7 @@ author: Arnd
 
 Heute testest du eine Mini-Morgenroutine, die nur ein paar Minuten dauert – aber deinen Tag viel besser starten lässt.
 
-## Dein 3-Schritte-Start
+## Dein 3-Schritte-Start 
 
 1. **Wasser-Alarm**
    Direkt nach dem Aufstehen ein Glas Wasser trinken.  
