@@ -1,4 +1,4 @@
-﻿---
+---
 calendar: fiona
 layout: post
 title: Witz-Runde in 10 Minuten
@@ -11,7 +11,7 @@ author: Arnd
 
 Heute geht alles ums Lachen – mit einer Witz-Runde, für die du direkt loslegen kannst.
 
-## Schritt 1: Witz-Zettel vorbereiten
+## Schritt 1: Witz-Zettel vorbereiten 
 
 Schreib diese Witze auf einzelne Zettel (oder lies sie direkt vor):
 
