@@ -1,4 +1,4 @@
-﻿---
+---
 calendar: melanie
 layout: post
 title: Dankbarkeit in drei Schlucken
@@ -9,7 +9,7 @@ tags: [Achtsamkeit, Morgen, Dankbarkeit]
 author: Arnd
 ---
 
-**Gedanken-Cappuccino am Morgen**
+**Gedanken-Cappuccino am Morgen** 
 
 „Ich muss nicht alles im Griff haben – aber ich kann sehen, was heute schon gut ist.“
 
