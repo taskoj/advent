@@ -16,6 +16,13 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
+      - name: Debug: show workspace and ensure `docs/` exists early
+        run: |
+          echo "GITHUB_WORKSPACE=$GITHUB_WORKSPACE"
+          mkdir -p "$GITHUB_WORKSPACE/docs"
+          echo "Listing workspace root:"
+          ls -la "$GITHUB_WORKSPACE"
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
