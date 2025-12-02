@@ -24,7 +24,7 @@ Renders a section per tag that contains posts for the given calendar.
           {% assign tag_slug = tag_name | slugify %}
           <section id="{{ tag_slug }}" class="tag-section">
             <h2>{{ tag_name }}</h2>
-            <ul class="list-unstyled">
+            <ul>
               {% for post in tag_posts %}
               <li>
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
