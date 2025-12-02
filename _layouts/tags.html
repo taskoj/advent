@@ -1,0 +1,40 @@
+---
+layout: page
+---
+
+{%- comment -%}
+Tags listing layout. Expects `page.site_key` (calendar key) to be set in the page front matter.
+Renders a section per tag that contains posts for the given calendar.
+{%- endcomment -%}
+
+<h1>Tags</h1>
+
+{%- assign key = page.site_key | default: nil -%}
+{%- if key == nil -%}
+  <p>No calendar specified.</p>
+{%- else -%}
+  <p>Tags for <strong>{{ key }}</strong></p>
+
+  {% comment %} Iterate all site tags and show only those that have posts in this calendar {% endcomment %}
+  <div class="tags-list">
+    {% for tag in site.tags %}
+      {% assign tag_name = tag[0] %}
+      {% assign tag_posts = tag[1] | where: "calendar", key %}
+      {% if tag_posts and tag_posts.size > 0 %}
+        {% assign tag_slug = tag_name | slugify %}
+        <section id="{{ tag_slug }}" class="tag-section">
+          <h2>{{ tag_name }}</h2>
+          <ul class="list-unstyled">
+            {% for post in tag_posts %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <small class="text-muted"> — {{ post.date | date: site.date_format }}</small>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+{% endif %}
