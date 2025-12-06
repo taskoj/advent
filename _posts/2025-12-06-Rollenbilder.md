@@ -1,27 +1,42 @@
 ---
 calendar: henri
 layout: post
-title: Journaling-Methode
+title: Rollenbilder - Wer soll ich sein?
 subtitle: Dies ist Türchen 6. Nur noch 18 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Selbstmanagement, Journaling-Methode]
+tags: [Soziologie, Identität, Gesellschaft]
 author: Arnd
 ---
 
-Die **Journaling-Methode** ist eine weitere Selbstmanagement-Methode, die heute Thema ist. Vielleicht magst Du die Methode einmal ausprobieren? Ich bin gespannt, wie sie Dir gefällt.
+In der Soziologie spricht man von **Rollen**:  
+Schüler, Sohn, Freund, vielleicht Vereinsmitglied, Gamer, Sportler …
 
-## Die Journaling-Methode kurzgefasst
+Zu jeder Rolle gehören Erwartungen:
+- wie du dich „als Junge“ verhalten sollst
+- wie ein „richtiger Schüler“ sein soll
+- wie man „cool“ ist
 
-Eine weitere beliebte und sehr leicht anzuwendende Methode zum Selbstmanagement ist das tägliche Journaling, also das schriftliche Beantworten von Fokus-Fragen. Journaling kann z. B. in die Morgenroutine integriert werden, beispielsweise mit Fragen wie:
+Diese Rollen können helfen – aber auch einengen.  
+Eine gerechte Gesellschaft erlaubt es Menschen, **von Rollen abzuweichen**, ohne dafür fertig gemacht zu werden.
 
-* Was ist heute meine wichtigste Aufgabe?
-* Welche eine Sache kann ich heute tun, um meinem Ziel näherzukommen?
+## Deine Aktion heute
 
-Journaling eignet sich außerdem, um Fortschritte, Erfahrungen und Learnings am Ende des Arbeitstages festzuhalten. Dabei genügt beispielsweise ein Notizbuch oder du besorgst dir ein spezielles Erfolgsjournal mit vorgegebenen Fragen zur Reflexion.
+1. **Meine Rollen-Liste**  
+   Schreib auf:  
+   „Ich bin …“ und ergänze mindestens 6 Rollen (z. B. Bruder, Schüler, Freund, Nachbar, Fußballer, Nachhilfegeber).
 
-## Ein Kurzvideo zum Thema
+2. **Erwartungen erkennen**  
+   Wähle 2 Rollen aus und notiere:
+   - Welche Erwartungen haben andere an mich in dieser Rolle?
+   - Welche davon passen zu mir?
+   - Welche nerven mich?
 
-Im folgenden Kurzvideo gibt es eine Zusammenfassung der Methode. Vielleicht wird es damit verständlicher, wie die Methode angewendet werden kann.
+3. **Kleine Rollen-Rebellion**  
+   Überlege eine mini-kleine Sache, die **du anders machen möchtest**, obwohl die Rolle etwas anderes „vorschreibt“.  
+   Beispiele:
+   - als Junge offen sagen, dass du traurig oder überfordert bist  
+   - in der Clique zugeben, dass du gern liest  
+   - in einer WhatsApp-Gruppe bewusst nicht über jemanden lästern
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/sl8dNxbghmU?si=d_7US6wYayBUtm8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   Setze heute **eine** dieser Mini-Rebellionen um.

@@ -1,42 +1,40 @@
 ---
-calendar: henri
 layout: post
-title: Rollenbilder - Wer soll ich sein?
-subtitle: Dies ist Türchen 6. Nur noch 18 Tage bis Heiligabend!
+title: Psychologie der Vorurteile
+subtitle: Dies ist Türchen Nummer 5. Nur noch 19 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Soziologie, Identität, Gesellschaft]
+tags: [Psychologie, Vorurteile, Soziologie]
 author: Arnd
 ---
 
-In der Soziologie spricht man von **Rollen**:  
-Schüler, Sohn, Freund, vielleicht Vereinsmitglied, Gamer, Sportler …
+Unser Gehirn liebt **Abkürzungen**. Es sortiert Menschen in Schubladen, damit wir schnell reagieren können.  
+Das Problem: Diese schnellen Urteile sind oft **Vorurteile** – also Bewertungen, bevor wir jemanden wirklich kennen.
 
-Zu jeder Rolle gehören Erwartungen:
-- wie du dich „als Junge“ verhalten sollst
-- wie ein „richtiger Schüler“ sein soll
-- wie man „cool“ ist
+Vorurteile entstehen z. B. durch:
+- Erziehung und Umfeld
+- Medienbilder
+- schlechte Erfahrungen mit Einzelnen, die wir auf ganze Gruppen übertragen
 
-Diese Rollen können helfen – aber auch einengen.  
-Eine gerechte Gesellschaft erlaubt es Menschen, **von Rollen abzuweichen**, ohne dafür fertig gemacht zu werden.
+Eine gerechte Gesellschaft braucht Menschen, die ihre eigenen Vorurteile **erkennen** und **hinterfragen**.
 
 ## Deine Aktion heute
 
-1. **Meine Rollen-Liste**  
-   Schreib auf:  
-   „Ich bin …“ und ergänze mindestens 6 Rollen (z. B. Bruder, Schüler, Freund, Nachbar, Fußballer, Nachhilfegeber).
+1. **Ehrlicher Check**  
+   Beantworte für dich (schriftlich, ohne Zensur):
+   - Gegen welche Gruppen oder Typen von Menschen habe ich spontan negative Gedanken?
+   - Woher könnten diese Bilder kommen?
 
-2. **Erwartungen erkennen**  
-   Wähle 2 Rollen aus und notiere:
-   - Welche Erwartungen haben andere an mich in dieser Rolle?
-   - Welche davon passen zu mir?
-   - Welche nerven mich?
+2. **Gegenbeweise sammeln**  
+   Wähle ein Vorurteil aus, das du identifiziert hast.  
+   Suche mindestens **3 Gegenbeispiele**:
+   - Personen, die nicht ins Klischee passen  
+   - Situationen, in denen dein Vorurteil nicht gestimmt hat
 
-3. **Kleine Rollen-Rebellion**  
-   Überlege eine mini-kleine Sache, die **du anders machen möchtest**, obwohl die Rolle etwas anderes „vorschreibt“.  
-   Beispiele:
-   - als Junge offen sagen, dass du traurig oder überfordert bist  
-   - in der Clique zugeben, dass du gern liest  
-   - in einer WhatsApp-Gruppe bewusst nicht über jemanden lästern
+3. **Beobachtung im Alltag**  
+   Achte heute darauf, wenn in Gesprächen oder Medien verallgemeinert wird („die Ausländer“, „die Reichen“, „die Faulen“ usw.).  
+   Frag dich innerlich:
+   > „Stimmt das wirklich für **alle**? Oder ist das zu einfach?“
 
-   Setze heute **eine** dieser Mini-Rebellionen um.
+   Wenn du dich traust, stell eine **ruhige Frage** wie:  
+   „Meinst du wirklich alle? Kennst du Gegenbeispiele?“
